@@ -46,12 +46,5 @@ Aktuell arbeite ich an einem **Finance-Tool zur Ausgabenanalyse** sowie mehreren
 
 ---
 
-## 📫 Kontakt & Netzwerke
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](#)  
-[![E-Mail](https://img.shields.io/badge/E--Mail-red?style=flat&logo=gmail)](mailto:deine@email.de)
-
----
-
 > _"Code ist dann gut, wenn er nicht nur funktioniert, sondern auch verständlich ist."_  
 > – Mein Leitsatz beim Entwickeln
