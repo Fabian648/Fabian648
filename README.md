@@ -27,7 +27,7 @@ I’m a certified software developer with **9+ years of experience** in building
 
 - 💸 [**Finance Tool**](https://github.com/Fabian648/finance-tool) – Budget tracker in Python
 - 📁 [**Folder Organizer**](https://github.com/Fabian648/folder-organizer) – Automated folder structure scripts
-- 🔍 [**PrimeCheck API**](https://github.com/Fabian648/primecheck-api) – FastAPI service to check prime numbers
+- 🔍 [**PrimeCheck API**](https://github.com/Fabian648/PrimMiller) – FastAPI service to check prime numbers
 - 📊 **Number Analyzer** _(planned)_ – Factorization and number patterns
 
 ---
