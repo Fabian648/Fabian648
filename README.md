@@ -19,7 +19,7 @@ I’m a certified software developer with **9+ years of experience** in building
 
 #### 🎮 Gaming
 
-- 🐍 [**Snake Game**](https://github.com/Fabian648/snake-game) – Classic snake in `pygame`
+- 🐍 [**Snake Game**](https://github.com/Fabian648/snakegame) – Classic snake in `pygame`
 - 🧠 [**Number Guessing Game**](https://github.com/Fabian648/number-guessing-game) – Beginner Python game
 - 💾 [**SQLite Mini DB**](https://github.com/Fabian648/sqlite-mini-db) – Store game data with SQLite
 
