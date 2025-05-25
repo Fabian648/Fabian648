@@ -145,13 +145,43 @@ Python、自動化、小さなツールや `pygame` を使ったゲーム開発�
 
 ---
 
-> _"Good code doesn't just work – it's understandable."_  
-> – My development philosophy.
-
----
-
 ## 🤖 Fun Fact: Machine Language
 01001000 01100101 01101100 01101100 01101111 00100000
 01010111 01101111 01110010 01101100 01100100 00100000
 01100110 01110010 01101111 01101101 00100000
 01000110 01100001 01100010 01101001 01100001 01101110 00101110
+
+---
+
+## 📊 GitHub Stats / GitHub-Statistiken
+
+![Fabian648's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fabian648&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabian648&layout=compact&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Trophies / Trophäen / Trofeos / トロフィー
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Fabian648&theme=darkhub&column=4)
+
+---
+
+## 🔥 GitHub Activity / Aktivität / Actividad / アクティビティ
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fabian648&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+> 🕒 Shows your contributions over time – hover to explore!
+
+---
+
+## 📈 Badges & Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=Fabian648&label=Visitors&color=blue&style=flat)
+![Followers](https://img.shields.io/github/followers/Fabian648?label=Followers&style=social)
+
+---
+
+> _"Good code doesn't just work – it's understandable."_  
+> – My development philosophy.
+
+---
