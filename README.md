@@ -25,7 +25,7 @@ I’m a certified software developer with **9+ years of experience** in building
 
 #### ➗ Math & Tools
 
-- 💸 [**Finance Tool**](https://github.com/Fabian648/finance-tool) – Budget tracker in Python
+- 💸 [**Finance Tool**](https://github.com/Fabian648/financetracker) – Budget tracker in Python
 - 📁 [**Folder Organizer**](https://github.com/Fabian648/) – Automated folder structure scripts
 - 🔍 [**PrimeCheck API**](https://github.com/Fabian648/primmiller) – FastAPI service to check prime numbers
 - 📊 **Number Analyzer** _(planned)_ – Factorization and number patterns
@@ -54,15 +54,15 @@ Meine Schwerpunkte: **Python**, **Automatisierung**, **Tools**, **Game Developme
 
 #### 🎮 Spiele
 
-- 🐍 [**Snake Game**](https://github.com/Fabian648/snake-game) – Klassisches Snake mit `pygame`
-- 🧠 [**Zahlenraten-Spiel**](https://github.com/Fabian648/number-guessing-game) – Einfaches Python-Game
-- 💾 [**SQLite Mini-DB**](https://github.com/Fabian648/sqlite-mini-db) – Kleine Datenhaltung für Spiele
+- 🐍 [**Snake Game**](https://github.com/Fabian648/snakegame) – Klassisches Snake mit `pygame`
+- 🧠 [**Zahlenraten-Spiel**](https://github.com/Fabian648/) – Einfaches Python-Game
+- 💾 [**SQLite Mini-DB**](https://github.com/Fabian648/) – Kleine Datenhaltung für Spiele
 
 #### ➗ Mathematik & Tools
 
 - 💸 [**Finance Tool**](https://github.com/Fabian648/financetraker) – Persönliches Ausgaben-Tool in Python
 - 📁 [**Ordnungs-Skripte**](https://github.com/Fabian648/) – Automatisierte Ordnerstrukturierung
-- 🔍 [**PrimeCheck API**](https://github.com/Fabian648/primecheck-api) – FastAPI zur Primzahlprüfung
+- 🔍 [**PrimeCheck API**](https://github.com/Fabian648/primmiller) – FastAPI zur Primzahlprüfung
 - 📊 **Zahlen-Analyser** _(geplant)_ – Mathematische Analyse-Tools
 
 ---
@@ -88,15 +88,15 @@ Soy desarrollador con más de **9 años de experiencia** en Python, automatizaci
 
 #### 🎮 Juegos
 
-- 🐍 [**Snake Game**](https://github.com/Fabian648/snake-game) – Juego clásico con `pygame`
-- 🧠 [**Adivina el Número**](https://github.com/Fabian648/number-guessing-game) – Juego simple en Python
-- 💾 [**SQLite Mini DB**](https://github.com/Fabian648/sqlite-mini-db) – Guardar datos en SQLite
+- 🐍 [**Snake Game**](https://github.com/Fabian648/snakegame) – Juego clásico con `pygame`
+- 🧠 [**Adivina el Número**](https://github.com/Fabian648/) – Juego simple en Python
+- 💾 [**SQLite Mini DB**](https://github.com/Fabian648/) – Guardar datos en SQLite
 
 #### ➗ Matemáticas & Herramientas
 
-- 💸 [**Finance Tool**](https://github.com/Fabian648/finance-tool) – Herramienta de presupuesto en Python
-- 📁 [**Organizador de Carpetas**](https://github.com/Fabian648/folder-organizer) – Scripts de organización
-- 🔍 [**PrimeCheck API**](https://github.com/Fabian648/primecheck-api) – API para verificar números primos
+- 💸 [**Finance Tool**](https://github.com/Fabian648/financetracker) – Herramienta de presupuesto en Python
+- 📁 [**Organizador de Carpetas**](https://github.com/Fabian648/) – Scripts de organización
+- 🔍 [**PrimeCheck API**](https://github.com/Fabian648/primmiller) – API para verificar números primos
 - 📊 **Analizador de Números** _(planeado)_
 
 ---
@@ -122,15 +122,15 @@ Python、自動化、小さなツールや `pygame` を使ったゲーム開発�
 
 #### 🎮 ゲーム
 
-- 🐍 [**スネークゲーム**](https://github.com/Fabian648/snake-game) – `pygame` のクラシックなスネーク
-- 🧠 [**数字当てゲーム**](https://github.com/Fabian648/number-guessing-game) – 初心者向け Python ゲーム
-- 💾 [**SQLite Mini DB**](https://github.com/Fabian648/sqlite-mini-db) – SQLite を使用したデータ保存
+- 🐍 [**スネークゲーム**](https://github.com/Fabian648/snakegame) – `pygame` のクラシックなスネーク
+- 🧠 [**数字当てゲーム**](https://github.com/Fabian648/) – 初心者向け Python ゲーム
+- 💾 [**SQLite Mini DB**](https://github.com/Fabian648/) – SQLite を使用したデータ保存
 
 #### ➗ 数学 & ツール
 
-- 💸 [**Finance Tool**](https://github.com/Fabian648/finance-tool) – 予算管理アプリ（Python）
-- 📁 [**フォルダー整理スクリプト**](https://github.com/Fabian648/folder-organizer) – 自動フォルダー構成
-- 🔍 [**PrimeCheck API**](https://github.com/Fabian648/primecheck-api) – 素数チェックのためのAPI
+- 💸 [**Finance Tool**](https://github.com/Fabian648/financetracker) – 予算管理アプリ（Python）
+- 📁 [**フォルダー整理スクリプト**](https://github.com/Fabian648/) – 自動フォルダー構成
+- 🔍 [**PrimeCheck API**](https://github.com/Fabian648/primmiller) – 素数チェックのためのAPI
 - 📊 **数値分析ツール** _(計画中)_
 
 ---
