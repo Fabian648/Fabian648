@@ -20,14 +20,14 @@ I’m a certified software developer with **9+ years of experience** in building
 #### 🎮 Gaming
 
 - 🐍 [**Snake Game**](https://github.com/Fabian648/snakegame) – Classic snake in `pygame`
-- 🧠 [**Number Guessing Game**](https://github.com/Fabian648/number-guessing-game) – Beginner Python game
-- 💾 [**SQLite Mini DB**](https://github.com/Fabian648/sqlite-mini-db) – Store game data with SQLite
+- 🧠 [**Number Guessing Game**](https://github.com/Fabian648/) – Beginner Python game
+- 🧟‍♂️ [**Zombie Rush**](https://github.com/Fabian648/zombie_rush) - zombie side-scoller
 
 #### ➗ Math & Tools
 
 - 💸 [**Finance Tool**](https://github.com/Fabian648/finance-tool) – Budget tracker in Python
-- 📁 [**Folder Organizer**](https://github.com/Fabian648/folder-organizer) – Automated folder structure scripts
-- 🔍 [**PrimeCheck API**](https://github.com/Fabian648/PrimMiller) – FastAPI service to check prime numbers
+- 📁 [**Folder Organizer**](https://github.com/Fabian648/) – Automated folder structure scripts
+- 🔍 [**PrimeCheck API**](https://github.com/Fabian648/primmiller) – FastAPI service to check prime numbers
 - 📊 **Number Analyzer** _(planned)_ – Factorization and number patterns
 
 ---
@@ -60,8 +60,8 @@ Meine Schwerpunkte: **Python**, **Automatisierung**, **Tools**, **Game Developme
 
 #### ➗ Mathematik & Tools
 
-- 💸 [**Finance Tool**](https://github.com/Fabian648/finance-tool) – Persönliches Ausgaben-Tool in Python
-- 📁 [**Ordnungs-Skripte**](https://github.com/Fabian648/folder-organizer) – Automatisierte Ordnerstrukturierung
+- 💸 [**Finance Tool**](https://github.com/Fabian648/financetraker) – Persönliches Ausgaben-Tool in Python
+- 📁 [**Ordnungs-Skripte**](https://github.com/Fabian648/) – Automatisierte Ordnerstrukturierung
 - 🔍 [**PrimeCheck API**](https://github.com/Fabian648/primecheck-api) – FastAPI zur Primzahlprüfung
 - 📊 **Zahlen-Analyser** _(geplant)_ – Mathematische Analyse-Tools
 
