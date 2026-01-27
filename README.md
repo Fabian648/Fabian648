@@ -10,9 +10,10 @@
 
 ## 🇬🇧 English
 
-Hi there, I'm Fabian 👋
-I’m a certified software developer with 9+ years of experience in building Python tools, automation scripts, and small games using pygame.
+Hi there, I'm **Fabian** 👋  
+I’m a certified software developer with **9+ years of experience** in building Python tools, automation scripts, and small games using `pygame`.
 I also gained strong experience with Java during my university studies, especially in object-oriented programming.
+
 ---
 
 ### 🚀 Projects
@@ -48,6 +49,7 @@ Hallo, ich bin **Fabian** 👋
 Ich bin ausgebildeter Fachinformatiker mit über **9 Jahren Erfahrung in der Softwareentwicklung**.  
 Meine Schwerpunkte: **Python**, **Automatisierung**, **Tools**, **Game Development** mit `pygame`.
 Während meines Studiums habe ich mich intensiv mit Java beschäftigt, insbesondere mit objektorientierter Programmierung.
+
 ---
 
 ### 🚀 Projekte
@@ -82,6 +84,7 @@ Während meines Studiums habe ich mich intensiv mit Java beschäftigt, insbesond
 Hola, soy **Fabian** 👋  
 Soy desarrollador con más de **9 años de experiencia** en Python, automatización y desarrollo de juegos con `pygame`.
 También adquirí una sólida base en Java durante mis estudios universitarios, especialmente en programación orientada a objetos.
+
 ---
 
 ### 🚀 Proyectos
@@ -116,6 +119,7 @@ También adquirí una sólida base en Java durante mis estudios universitarios, 
 こんにちは、**Fabian** です 👋  
 Python、自動化、小さなツールや `pygame` を使ったゲーム開発を得意としています。経験は **9年以上**。
 また、大学では Java を重点的に学び, 特にオブジェクト指向プログラミングに取り組みました。
+
 ---
 
 ### 🚀 プロジェクト
