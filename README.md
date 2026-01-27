@@ -164,6 +164,12 @@ Python、自動化、小さなツールや `pygame` を使ったゲーム開発�
 
 ---
 
+## 🧩 Coding Practice
+
+![Codewars Badge](https://www.codewars.com/users/Fabi0406/badges/large)
+
+
+---
 ## 🏆 GitHub Trophies / Trophäen / Trofeos / トロフィー
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Fabian648&theme=darkhub&column=4)
