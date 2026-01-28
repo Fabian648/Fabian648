@@ -21,21 +21,24 @@ I also gained strong experience with Java during my university studies, especial
 #### 🎮 Gaming
 
 - 🐍 [**Snake Game**](https://github.com/Fabian648/snakegame) – Classic snake in `pygame`
-- 🧠 [**Number Guessing Game**](https://github.com/Fabian648/) – Beginner Python game
-- 🧟‍♂️ [**Zombie Rush**](https://github.com/Fabian648/zombie_rush) - zombie side-scoller
+- 🌌 [**Sirius Journey**](https://github.com/Fabian648/sirius-journey) – Space adventure game
 
 #### ➗ Math & Tools
 
-- 💸 [**Finance Tool**](https://github.com/Fabian648/financetracker) – Budget tracker in Python
-- 📁 [**Folder Organizer**](https://github.com/Fabian648/) – Automated folder structure scripts
+- 💸 [**Finance Tool**](https://github.com/Fabian648/FinanzTracker) – Budget tracker in Python
 - 🔍 [**PrimeCheck API**](https://github.com/Fabian648/primmiller) – FastAPI service to check prime numbers
-- 📊 **Number Analyzer** _(planned)_ – Factorization and number patterns
+- 🔐 [**RSA**](https://github.com/Fabian648/RSA) – RSA encryption/decryption project
+- 🧮 [**Hex Fraction Calculator**](https://github.com/Fabian648/HexFractionCalculator) – Hexadecimal fraction calculator
+
+#### 🧩 Codewars Solutions
+
+- 📂 [**My Solutions**](https://github.com/Fabian648/codewars) – My solutions for Codewars challenges
 
 ---
 
 ### 💡 Tech & Interests
 
-- Python, Bash, SQL
+- Java, Python, Bash, SQL
 - Game Development with `pygame`
 - Automation & CLI Tools
 - Data Analysis
@@ -57,21 +60,24 @@ Während meines Studiums habe ich mich intensiv mit Java beschäftigt, insbesond
 #### 🎮 Spiele
 
 - 🐍 [**Snake Game**](https://github.com/Fabian648/snakegame) – Klassisches Snake mit `pygame`
-- 🧠 [**Zahlenraten-Spiel**](https://github.com/Fabian648/) – Einfaches Python-Game
-- 💾 [**SQLite Mini-DB**](https://github.com/Fabian648/) – Kleine Datenhaltung für Spiele
+- 🌌 [**Sirius Journey**](https://github.com/Fabian648/sirius-journey) – Weltraum-Abenteuer
 
 #### ➗ Mathematik & Tools
 
-- 💸 [**Finance Tool**](https://github.com/Fabian648/financetraker) – Persönliches Ausgaben-Tool in Python
-- 📁 [**Ordnungs-Skripte**](https://github.com/Fabian648/) – Automatisierte Ordnerstrukturierung
+- 💸 [**Finance Tool**](https://github.com/Fabian648/FinanzTracker) – Persönliches Ausgaben-Tool in Python
 - 🔍 [**PrimeCheck API**](https://github.com/Fabian648/primmiller) – FastAPI zur Primzahlprüfung
-- 📊 **Zahlen-Analyser** _(geplant)_ – Mathematische Analyse-Tools
+- 🔐 [**RSA**](https://github.com/Fabian648/RSA) – RSA Verschlüsselungs-/Entschlüsselungsprojekt
+- 🧮 [**Hex Fraction Calculator**](https://github.com/Fabian648/HexFractionCalculator) – Rechner für hexadezimale Brüche
+
+#### 🧩 Codewars Lösungen
+
+- 📂 [**Meine Lösungen**](https://github.com/Fabian648/codewars) – Lösungen zu meinen Codewars-Aufgaben
 
 ---
 
 ### 💡 Interessen & Technologien
 
-- Python, Bash, SQL
+- Java, Python, Bash, SQL
 - Spieleentwicklung mit `pygame`
 - Automatisierung & CLI-Tools
 - Datenanalyse
@@ -92,21 +98,24 @@ También adquirí una sólida base en Java durante mis estudios universitarios, 
 #### 🎮 Juegos
 
 - 🐍 [**Snake Game**](https://github.com/Fabian648/snakegame) – Juego clásico con `pygame`
-- 🧠 [**Adivina el Número**](https://github.com/Fabian648/) – Juego simple en Python
-- 💾 [**SQLite Mini DB**](https://github.com/Fabian648/) – Guardar datos en SQLite
+- 🌌 [**Sirius Journey**](https://github.com/Fabian648/sirius-journey) – Juego de aventura espacial
 
 #### ➗ Matemáticas & Herramientas
 
-- 💸 [**Finance Tool**](https://github.com/Fabian648/financetracker) – Herramienta de presupuesto en Python
-- 📁 [**Organizador de Carpetas**](https://github.com/Fabian648/) – Scripts de organización
+- 💸 [**Finance Tool**](https://github.com/Fabian648/FinanzTracker) – Herramienta de presupuesto en Python
 - 🔍 [**PrimeCheck API**](https://github.com/Fabian648/primmiller) – API para verificar números primos
-- 📊 **Analizador de Números** _(planeado)_
+- 🔐 [**RSA**](https://github.com/Fabian648/RSA) – Proyecto de cifrado/descifrado RSA
+- 🧮 [**Hex Fraction Calculator**](https://github.com/Fabian648/HexFractionCalculator) – Calculadora de fracciones hexadecimales
+
+#### 🧩 Soluciones Codewars
+
+- 📂 [**Mis soluciones**](https://github.com/Fabian648/codewars) – Mis soluciones a desafíos de Codewars
 
 ---
 
 ### 💡 Tecnologías & Intereses
 
-- Python, Bash, SQL
+- Java, Python, Bash, SQL
 - Desarrollo de juegos (`pygame`)
 - Automatización, CLI
 - Análisis de datos
@@ -127,25 +136,18 @@ Python、自動化、小さなツールや `pygame` を使ったゲーム開発�
 #### 🎮 ゲーム
 
 - 🐍 [**スネークゲーム**](https://github.com/Fabian648/snakegame) – `pygame` のクラシックなスネーク
-- 🧠 [**数字当てゲーム**](https://github.com/Fabian648/) – 初心者向け Python ゲーム
-- 💾 [**SQLite Mini DB**](https://github.com/Fabian648/) – SQLite を使用したデータ保存
+- 🌌 [**Sirius Journey**](https://github.com/Fabian648/sirius-journey) – 宇宙アドベンチャーゲーム
 
 #### ➗ 数学 & ツール
 
-- 💸 [**Finance Tool**](https://github.com/Fabian648/financetracker) – 予算管理アプリ（Python）
-- 📁 [**フォルダー整理スクリプト**](https://github.com/Fabian648/) – 自動フォルダー構成
+- 💸 [**Finance Tool**](https://github.com/Fabian648/FinanzTracker) – 予算管理アプリ（Python）
 - 🔍 [**PrimeCheck API**](https://github.com/Fabian648/primmiller) – 素数チェックのためのAPI
-- 📊 **数値分析ツール** _(計画中)_
+- 🔐 [**RSA**](https://github.com/Fabian648/RSA) – RSA暗号化／復号プロジェクト
+- 🧮 [**Hex Fraction Calculator**](https://github.com/Fabian648/HexFractionCalculator) – 16進分数計算機
 
----
+#### 🧩 Codewars ソリューション
 
-### 💡 興味と技術
-
-- Python, Bash, SQL
-- `pygame` ゲーム開発
-- 自動化 & CLI
-- データ分析
-- 機械学習（初心者）
+- 📂 [**私の解答**](https://github.com/Fabian648/codewars) – Codewarsチャレンジの解答集
 
 ---
 
@@ -153,7 +155,7 @@ Python、自動化、小さなツールや `pygame` を使ったゲーム開発�
 01001000 01100101 01101100 01101100 01101111 00100000
 01010111 01101111 01110010 01101100 01100100 00100000
 01100110 01110010 01101111 01101101 00100000
-01000110 01100001 01100010 01101001 01100001 01101110 00101110
+01000110 01100001 01100010 01101001 01100001 01101110.
 
 ---
 
@@ -164,14 +166,6 @@ Python、自動化、小さなツールや `pygame` を使ったゲーム開発�
 
 ---
 
-## 🧩 Coding Practice
-
-🧩 Codewars: https://www.codewars.com/users/Fabi0406
-
-![Codewars Badge](https://www.codewars.com/users/Fabi0406/badges/large)
-
-
----
 ## 🏆 GitHub Trophies / Trophäen / Trofeos / トロフィー
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Fabian648&theme=darkhub&column=4)
@@ -181,8 +175,6 @@ Python、自動化、小さなツールや `pygame` を使ったゲーム開発�
 ## 🔥 GitHub Activity / Aktivität / Actividad / アクティビティ
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fabian648&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-> 🕒 Shows your contributions over time – hover to explore!
 
 ---
 
@@ -195,5 +187,3 @@ Python、自動化、小さなツールや `pygame` を使ったゲーム開発�
 
 > _"Good code doesn't just work – it's understandable."_  
 > – My development philosophy.
-
----
