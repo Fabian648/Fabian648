@@ -1,189 +1,136 @@
-# 🌍 Select Language / Sprache wählen / Idioma / 言語を選択
+<div align="center">
 
-- [🇬🇧 English](#-english)
-- [🇩🇪 Deutsch](#-deutsch)
-- [🇪🇸 Español](#-español)
-- [🇯🇵 日本語](#-日本語)
-- [🤖 Machine Language](#-fun-fact-machine-language)
+<!-- Animated starfield header — stored in your profile repo as header.svg -->
+![Header](./header.svg)
 
----
+<br/>
 
-## 🇬🇧 English
+<!-- Animated typing subtitle -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Certified+Software+Developer+%F0%9F%87%A9%F0%9F%87%AA%F0%9F%87%AC%F0%9F%87%A7%F0%9F%87%AA%F0%9F%87%B8%F0%9F%87%AF%F0%9F%87%B5;9%2B+years+building+things+that+last;Clean+Architecture+%C2%B7+Java+%C2%B7+Python;Hexagonal+%C2%B7+Event-Driven+%C2%B7+IoT;Open+to+collaboration+%F0%9F%A4%9D)](https://github.com/Fabian648)
 
-Hi there, I'm **Fabian** 👋  
-I’m a certified software developer with **9+ years of experience** in building Python tools, automation scripts, and small games using `pygame`.
-I also gained strong experience with Java during my university studies, especially in object-oriented programming.
+<br/>
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=Fabian648&label=Visitors&color=58a6ff&style=flat)
+&nbsp;
+![Followers](https://img.shields.io/github/followers/Fabian648?label=Followers&style=social)
 
-### 🚀 Projects
-
-#### 🎮 Gaming
-
-- 🐍 [**Snake Game**](https://github.com/Fabian648/snakegame) – Classic snake in `pygame`
-- 🌌 [**Sirius Journey**](https://github.com/Fabian648/sirius-journey) – Space adventure game
-
-#### ➗ Math & Tools
-
-- 💸 [**Finance Tool**](https://github.com/Fabian648/FinanzTracker) – Budget tracker in Python
-- 🔍 [**PrimeCheck API**](https://github.com/Fabian648/primmiller) – FastAPI service to check prime numbers
-- 🔐 [**RSA**](https://github.com/Fabian648/RSA) – RSA encryption/decryption project
-- 🧮 [**Hex Fraction Calculator**](https://github.com/Fabian648/HexFractionCalculator) – Hexadecimal fraction calculator
-
-#### 🧩 Codewars Solutions
-
-- 📂 [**My Solutions**](https://github.com/Fabian648/codewars) – My solutions for Codewars challenges
+</div>
 
 ---
 
-### 💡 Tech & Interests
+## 👋 About Me · Über mich · Sobre mí · 自己紹介
 
-- Java, Python, Bash, SQL
-- Game Development with `pygame`
-- Automation & CLI Tools
-- Data Analysis
-- Machine Learning (beginner level)
+**🇬🇧 EN** — I'm a certified software developer from Bavaria 🇩🇪 with 9+ years of experience. I care deeply about clean, maintainable code and love building systems with proper architecture — from high-performance backend servers to IoT monitoring and even open-source games. Currently leveling up in Machine Learning.
 
----
+**🇩🇪 DE** — Ausgebildeter Fachinformatiker aus Bayern mit über 9 Jahren Erfahrung. Saubere Architektur, wartbarer Code und durchdachte Systeme liegen mir am Herzen — vom Backend-Server über IoT bis hin zu Open-Source-Spielen. Aktuell: erste Schritte in Machine Learning.
 
-## 🇩🇪 Deutsch
+**🇪🇸 ES** — Desarrollador certificado de Baviera con más de 9 años de experiencia. Me apasiona el código limpio y la arquitectura bien pensada — backends, IoT y videojuegos de código abierto.
 
-Hallo, ich bin **Fabian** 👋  
-Ich bin ausgebildeter Fachinformatiker mit über **9 Jahren Erfahrung in der Softwareentwicklung**.  
-Meine Schwerpunkte: **Python**, **Automatisierung**, **Tools**, **Game Development** mit `pygame`.
-Während meines Studiums habe ich mich intensiv mit Java beschäftigt, insbesondere mit objektorientierter Programmierung.
+**🇯🇵 JP** — バイエルン出身の認定ソフトウェア開発者。9年以上の経験を持ち、クリーンアーキテクチャとメンテナブルなコードを大切にしています。
 
 ---
 
-### 🚀 Projekte
+## 🚀 Featured Projects · Ausgewählte Projekte
 
-#### 🎮 Spiele
+<br/>
 
-- 🐍 [**Snake Game**](https://github.com/Fabian648/snakegame) – Klassisches Snake mit `pygame`
-- 🌌 [**Sirius Journey**](https://github.com/Fabian648/sirius-journey) – Weltraum-Abenteuer
+### ⚙️ [BitSieve — High-Performance Prime Calculation Server](https://github.com/Fabian648/SieveFlow)
 
-#### ➗ Mathematik & Tools
+> A TCP server for computing and persisting prime numbers, built in **Java 24** with **Hexagonal Architecture**.  
+> Scales to thousands of concurrent clients using **Virtual Threads** — no thread overhead.  
+> Supports both in-memory storage for fast testing and **PostgreSQL** for persistence via HikariCP.  
+> One command to run: `docker compose up --build`
 
-- 💸 [**Finance Tool**](https://github.com/Fabian648/FinanzTracker) – Persönliches Ausgaben-Tool in Python
-- 🔍 [**PrimeCheck API**](https://github.com/Fabian648/primmiller) – FastAPI zur Primzahlprüfung
-- 🔐 [**RSA**](https://github.com/Fabian648/RSA) – RSA Verschlüsselungs-/Entschlüsselungsprojekt
-- 🧮 [**Hex Fraction Calculator**](https://github.com/Fabian648/HexFractionCalculator) – Rechner für hexadezimale Brüche
-
-#### 🧩 Codewars Lösungen
-
-- 📂 [**Meine Lösungen**](https://github.com/Fabian648/codewars) – Lösungen zu meinen Codewars-Aufgaben
+`Java 24` `Virtual Threads` `PostgreSQL` `HikariCP` `Docker` `Hexagonal Architecture`
 
 ---
 
-### 💡 Interessen & Technologien
+### 🏠 [HomeSentinel — IoT Monitoring System](https://github.com/Fabian648/HomeSentinel-System)
 
-- Java, Python, Bash, SQL
-- Spieleentwicklung mit `pygame`
-- Automatisierung & CLI-Tools
-- Datenanalyse
-- Machine Learning (erste Schritte)
+> Real-time IoT telemetry platform built with **Spring Boot** and **Java 25**.  
+> Event-driven architecture using **Redis** — built for massive concurrency and low latency.  
+> Includes a sensor simulator (ESP32) and Android client integration.  
+> One command to run: `make run-system`
 
----
-
-## 🇪🇸 Español
-
-Hola, soy **Fabian** 👋  
-Soy desarrollador con más de **9 años de experiencia** en Python, automatización y desarrollo de juegos con `pygame`.
-También adquirí una sólida base en Java durante mis estudios universitarios, especialmente en programación orientada a objetos.
+`Java 25` `Spring Boot` `Redis` `Docker` `Event-Driven` `IoT`
 
 ---
 
-### 🚀 Proyectos
+### 🌌 [Aeterna Imperium — Open-Source Grand Strategy Game](https://github.com/Fabian648/Aeterna_Imperium)
 
-#### 🎮 Juegos
+> A grimdark grand strategy game in **Java**, inspired by Warhammer 40K and Stellaris.  
+> Manage a sprawling empire across **1,000+ procedurally generated planets** with resources, governors, factions and cosmic events.  
+> CLI-first, designed with modular architecture for future 3D expansion.
 
-- 🐍 [**Snake Game**](https://github.com/Fabian648/snakegame) – Juego clásico con `pygame`
-- 🌌 [**Sirius Journey**](https://github.com/Fabian648/sirius-journey) – Juego de aventura espacial
-
-#### ➗ Matemáticas & Herramientas
-
-- 💸 [**Finance Tool**](https://github.com/Fabian648/FinanzTracker) – Herramienta de presupuesto en Python
-- 🔍 [**PrimeCheck API**](https://github.com/Fabian648/primmiller) – API para verificar números primos
-- 🔐 [**RSA**](https://github.com/Fabian648/RSA) – Proyecto de cifrado/descifrado RSA
-- 🧮 [**Hex Fraction Calculator**](https://github.com/Fabian648/HexFractionCalculator) – Calculadora de fracciones hexadecimales
-
-#### 🧩 Soluciones Codewars
-
-- 📂 [**Mis soluciones**](https://github.com/Fabian648/codewars) – Mis soluciones a desafíos de Codewars
+`Java 21` `Gradle` `Procedural Generation` `Game Dev` `Open Source`
 
 ---
 
-### 💡 Tecnologías & Intereses
+## ⚔️ Codewars
 
-- Java, Python, Bash, SQL
-- Desarrollo de juegos (`pygame`)
-- Automatización, CLI
-- Análisis de datos
-- Machine Learning (principiante)
+I sharpen my problem-solving skills regularly on Codewars — from algorithmic puzzles to data structure challenges.  
+*Ich trainiere regelmäßig auf Codewars — von Algorithmen bis hin zu Datenstrukturen.*
 
----
+<div align="center">
 
-## 🇯🇵 日本語
+[![Codewars](https://www.codewars.com/users/Fabian648/badges/large)](https://www.codewars.com/users/Fabian648)
 
-こんにちは、**Fabian** です 👋  
-Python、自動化、小さなツールや `pygame` を使ったゲーム開発を得意としています。経験は **9年以上**。
-また、大学では Java を重点的に学び, 特にオブジェクト指向プログラミングに取り組みました。
+</div>
+
+📂 [My Solutions Repository](https://github.com/Fabian648/codewars)
 
 ---
 
-### 🚀 プロジェクト
+## 🛠 Tech Stack
 
-#### 🎮 ゲーム
-
-- 🐍 [**スネークゲーム**](https://github.com/Fabian648/snakegame) – `pygame` のクラシックなスネーク
-- 🌌 [**Sirius Journey**](https://github.com/Fabian648/sirius-journey) – 宇宙アドベンチャーゲーム
-
-#### ➗ 数学 & ツール
-
-- 💸 [**Finance Tool**](https://github.com/Fabian648/FinanzTracker) – 予算管理アプリ（Python）
-- 🔍 [**PrimeCheck API**](https://github.com/Fabian648/primmiller) – 素数チェックのためのAPI
-- 🔐 [**RSA**](https://github.com/Fabian648/RSA) – RSA暗号化／復号プロジェクト
-- 🧮 [**Hex Fraction Calculator**](https://github.com/Fabian648/HexFractionCalculator) – 16進分数計算機
-
-#### 🧩 Codewars ソリューション
-
-- 📂 [**私の解答**](https://github.com/Fabian648/codewars) – Codewarsチャレンジの解答集
+| Domain | Technologies |
+|---|---|
+| **Languages** | Java · Python · SQL · Bash |
+| **Frameworks** | Spring Boot · FastAPI |
+| **Infrastructure** | Docker · Redis · PostgreSQL · HikariCP · Gradle |
+| **Concepts** | Clean & Hexagonal Architecture · Virtual Threads · Event-Driven · IoT |
+| **Learning** | Machine Learning · 3D Rendering |
 
 ---
 
-## 🤖 Fun Fact: Machine Language
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fabian648&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
+&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabian648&layout=compact&theme=github_dark&hide_border=true)
+
+<br/>
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Fabian648&theme=darkhub&column=4&no-frame=true)
+
+</div>
+
+---
+
+## 🤖 Fun Fact
+
+<details>
+<summary>🔍 Can you decode this?</summary>
+
+<br/>
+
+```
 01001000 01100101 01101100 01101100 01101111 00100000
 01010111 01101111 01110010 01101100 01100100 00100000
 01100110 01110010 01101111 01101101 00100000
-01000110 01100001 01100010 01101001 01100001 01101110.
+01000110 01100001 01100010 01101001 01100001 01101110
+```
+
+*→ Hello World from Fabian.*
+
+</details>
 
 ---
 
-## 📊 GitHub Stats / GitHub-Statistiken
+<div align="center">
 
-![Fabian648's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fabian648&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabian648&layout=compact&theme=tokyonight)
+*"Good code doesn't just work — it's understandable."*
 
----
-
-## 🏆 GitHub Trophies / Trophäen / Trofeos / トロフィー
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Fabian648&theme=darkhub&column=4)
-
----
-
-## 🔥 GitHub Activity / Aktivität / Actividad / アクティビティ
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fabian648&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 📈 Badges & Stats
-
-![Profile Views](https://komarev.com/ghpvc/?username=Fabian648&label=Visitors&color=blue&style=flat)
-![Followers](https://img.shields.io/github/followers/Fabian648?label=Followers&style=social)
-
----
-
-> _"Good code doesn't just work – it's understandable."_  
-> – My development philosophy.
+</div>
